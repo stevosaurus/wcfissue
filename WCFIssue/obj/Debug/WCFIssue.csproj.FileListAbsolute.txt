@@ -1,0 +1,8 @@
+C:\gitrepos\WCFIssue\WCFIssue\bin\Debug\WCFIssue.exe.config
+C:\gitrepos\WCFIssue\WCFIssue\bin\Debug\WCFIssue.exe
+C:\gitrepos\WCFIssue\WCFIssue\bin\Debug\WCFIssue.pdb
+C:\gitrepos\WCFIssue\WCFIssue\bin\Debug\WCFIssue.Services.dll
+C:\gitrepos\WCFIssue\WCFIssue\bin\Debug\WCFIssue.Services.pdb
+C:\gitrepos\WCFIssue\WCFIssue\obj\Debug\WCFIssue.csprojResolveAssemblyReference.cache
+C:\gitrepos\WCFIssue\WCFIssue\obj\Debug\WCFIssue.exe
+C:\gitrepos\WCFIssue\WCFIssue\obj\Debug\WCFIssue.pdb
